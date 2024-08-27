@@ -88,6 +88,8 @@ nav:
       - Collecting data from pod: 'techniques/Collecting Data from Pod.md'
     - Impact:
       - 'tactics/Impact/index.md'
+      - Data manipulation: 'techniques/Data manipulation.md'
+      - Data exfiltration: 'techniques/Data exfiltration.md'
       - Data destruction: 'techniques/Data destruction.md'
       - Resource hijacking: 'techniques/Resource hijacking.md'
       - Denial of service: 'techniques/Denial of service.md'

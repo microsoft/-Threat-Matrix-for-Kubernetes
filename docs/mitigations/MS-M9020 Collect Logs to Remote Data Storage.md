@@ -20,3 +20,4 @@ Collect the Kubernetes and application logs of pods to external data storage to 
 |--|----------|-----------|
 |[MS-TA9021](../techniques/Clear%20container%20logs.md)|Clear container logs|Collect container logs to a separate storage system.|
 |[MS-TA9022](../techniques/Delete%20K8S%20events.md)|Delete Kubernetes events|Collect Kubernetes logs to a separate storage system.|
+|[MS-TA9042](../techniques/Data%20manipulation.md)|Data manipulation|Collect container logs to a separate storage system.|

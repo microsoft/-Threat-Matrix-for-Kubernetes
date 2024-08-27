@@ -25,3 +25,5 @@ Restrict inbound and outbound network traffic of the pods in the cluster. This i
 |[MS-TA9031](../techniques/Network%20mapping.md)|Network segmentation|Restrict network between pods using network policies|
 |[MS-TA9005](../techniques/Exposed%20sensitive%20interfaces.md)|Exposed sensitive interfaces|Restrict network access to the sensitive interfaces.|
 |[MS-TA9034](../techniques/Cluster%20internal%20networking.md)|Cluster internal networking|Provision pod network policies to restrict the traffic between pods|
+|[MS-TA9043](../techniques/Data%20exfiltration.md)|Data exfiltration|Provision pod network policies to restrict external calls|
+|[MS-TA9042](../techniques/Data%20manipulation.md)|Data manipulation|Provision pod network policies to restrict the traffic between pods|
